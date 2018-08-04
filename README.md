@@ -1,2 +1,2 @@
 # Python_Practice
-practice code for python
+Personal practice codes for python to learn Python programming..!
